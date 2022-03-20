@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/kishusaini/modernAI.kishu.github.io.git/static/css/main.34349262.css",
+    "main.js": "/kishusaini/modernAI.kishu.github.io.git/static/js/main.1b175afc.js",
+    "static/media/ai.png": "/kishusaini/modernAI.kishu.github.io.git/static/media/ai.aa60586ba1ba53762d94.png",
+    "static/media/possibility.png": "/kishusaini/modernAI.kishu.github.io.git/static/media/possibility.525f13b61a2157d44de0.png",
+    "static/media/blog01.png": "/kishusaini/modernAI.kishu.github.io.git/static/media/blog01.cefc0932eae0d33a0342.png",
+    "static/media/blog03.png": "/kishusaini/modernAI.kishu.github.io.git/static/media/blog03.d922323861096f25274f.png",
+    "static/media/blog04.png": "/kishusaini/modernAI.kishu.github.io.git/static/media/blog04.742c1357e7b6c11078e6.png",
+    "static/media/blog05.png": "/kishusaini/modernAI.kishu.github.io.git/static/media/blog05.bfaa1c1e3851158e0e1f.png",
+    "static/media/blog02.png": "/kishusaini/modernAI.kishu.github.io.git/static/media/blog02.ab0eb367561796e91532.png",
+    "static/media/people.png": "/kishusaini/modernAI.kishu.github.io.git/static/media/people.5cd2d6fbcd48bd63f106.png",
+    "static/media/logo.svg": "/kishusaini/modernAI.kishu.github.io.git/static/media/logo.5114679faa0cce74946769ded97f1c89.svg",
+    "index.html": "/kishusaini/modernAI.kishu.github.io.git/index.html",
+    "main.34349262.css.map": "/kishusaini/modernAI.kishu.github.io.git/static/css/main.34349262.css.map",
+    "main.1b175afc.js.map": "/kishusaini/modernAI.kishu.github.io.git/static/js/main.1b175afc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.34349262.css",
+    "static/js/main.1b175afc.js"
+  ]
+}
